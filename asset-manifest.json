@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hamzaabbas34/clonewebsite/static/css/main.3dfd715c.css",
+    "main.js": "/hamzaabbas34/clonewebsite/static/js/main.afb67969.js",
+    "static/js/453.171ddc7f.chunk.js": "/hamzaabbas34/clonewebsite/static/js/453.171ddc7f.chunk.js",
+    "static/media/Anybody-VariableFont_wdth,wght.ttf": "/hamzaabbas34/clonewebsite/static/media/Anybody-VariableFont_wdth,wght.012ccb02157eb35fcf75.ttf",
+    "static/media/body.ttf": "/hamzaabbas34/clonewebsite/static/media/body.381fc4672c18a3db8064.ttf",
+    "static/media/Jost-Medium.ttf": "/hamzaabbas34/clonewebsite/static/media/Jost-Medium.7880ddb94a3253a0f044.ttf",
+    "static/media/Jost-Regular.ttf": "/hamzaabbas34/clonewebsite/static/media/Jost-Regular.d2e182cd5d7f484ff398.ttf",
+    "index.html": "/hamzaabbas34/clonewebsite/index.html",
+    "main.3dfd715c.css.map": "/hamzaabbas34/clonewebsite/static/css/main.3dfd715c.css.map",
+    "main.afb67969.js.map": "/hamzaabbas34/clonewebsite/static/js/main.afb67969.js.map",
+    "453.171ddc7f.chunk.js.map": "/hamzaabbas34/clonewebsite/static/js/453.171ddc7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dfd715c.css",
+    "static/js/main.afb67969.js"
+  ]
+}
