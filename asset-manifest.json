@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/https//hamzaabbas34.github.io/clonewebsite/static/css/main.405631f8.css",
-    "main.js": "/https//hamzaabbas34.github.io/clonewebsite/static/js/main.b73d7757.js",
-    "static/js/453.171ddc7f.chunk.js": "/https//hamzaabbas34.github.io/clonewebsite/static/js/453.171ddc7f.chunk.js",
-    "static/media/Anybody-VariableFont_wdth,wght.ttf": "/https//hamzaabbas34.github.io/clonewebsite/static/media/Anybody-VariableFont_wdth,wght.012ccb02157eb35fcf75.ttf",
-    "static/media/body.ttf": "/https//hamzaabbas34.github.io/clonewebsite/static/media/body.381fc4672c18a3db8064.ttf",
-    "static/media/Jost-Medium.ttf": "/https//hamzaabbas34.github.io/clonewebsite/static/media/Jost-Medium.7880ddb94a3253a0f044.ttf",
-    "static/media/Jost-Regular.ttf": "/https//hamzaabbas34.github.io/clonewebsite/static/media/Jost-Regular.d2e182cd5d7f484ff398.ttf",
-    "index.html": "/https//hamzaabbas34.github.io/clonewebsite/index.html",
-    "main.405631f8.css.map": "/https//hamzaabbas34.github.io/clonewebsite/static/css/main.405631f8.css.map",
-    "main.b73d7757.js.map": "/https//hamzaabbas34.github.io/clonewebsite/static/js/main.b73d7757.js.map",
-    "453.171ddc7f.chunk.js.map": "/https//hamzaabbas34.github.io/clonewebsite/static/js/453.171ddc7f.chunk.js.map"
+    "main.css": "/clonewebsite/static/css/main.2d462ca1.css",
+    "main.js": "/clonewebsite/static/js/main.402cd062.js",
+    "static/js/453.171ddc7f.chunk.js": "/clonewebsite/static/js/453.171ddc7f.chunk.js",
+    "static/media/Anybody-VariableFont_wdth,wght.ttf": "/clonewebsite/static/media/Anybody-VariableFont_wdth,wght.012ccb02157eb35fcf75.ttf",
+    "static/media/body.ttf": "/clonewebsite/static/media/body.381fc4672c18a3db8064.ttf",
+    "static/media/Jost-Medium.ttf": "/clonewebsite/static/media/Jost-Medium.7880ddb94a3253a0f044.ttf",
+    "static/media/Jost-Regular.ttf": "/clonewebsite/static/media/Jost-Regular.d2e182cd5d7f484ff398.ttf",
+    "index.html": "/clonewebsite/index.html",
+    "main.2d462ca1.css.map": "/clonewebsite/static/css/main.2d462ca1.css.map",
+    "main.402cd062.js.map": "/clonewebsite/static/js/main.402cd062.js.map",
+    "453.171ddc7f.chunk.js.map": "/clonewebsite/static/js/453.171ddc7f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.405631f8.css",
-    "static/js/main.b73d7757.js"
+    "static/css/main.2d462ca1.css",
+    "static/js/main.402cd062.js"
   ]
 }
